@@ -107,6 +107,7 @@ p{
 
 body,html{
   overflow-x: hidden;
+  background-color: #000;
 
 }
 @media all and (max-width: 770px) {
